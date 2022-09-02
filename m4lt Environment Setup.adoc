@@ -91,7 +91,7 @@ On the CLI, type: `PYTHONPATH=..:. python analysis.py`
 
 you should see the following:
 
-image::ml4t.PNG[verification]
+image::verification.png[verification]
 
 
 
